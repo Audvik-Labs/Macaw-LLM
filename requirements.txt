@@ -21,7 +21,7 @@ bitsandbytes
 black
 black[jupyter]
 fire
-transformers==4.29.0
+transformers==4.38.0
 gradio
 peft
 deepspeed
